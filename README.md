@@ -5,8 +5,8 @@
    *           Spring Boot
    *           REST Controller
    *           PA & Hibernate
-   *           RDBMS (not in-memory database)_
-   *          Annotation-based configuration (No XML)
+   *           RDBMS 
+   *          Annotation-based configuration 
    *         Pagination
      
   
